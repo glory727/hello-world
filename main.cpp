@@ -21,6 +21,7 @@ int main()
 	else
 		cout << line << endl;
 
+	cout << "ni hao ya"<<endl;
 	system("pause");
 	return 0;
 }
